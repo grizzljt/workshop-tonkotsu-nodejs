@@ -40,6 +40,8 @@ describe("Utils", function() {
     });
   });
 
+  
+
   describe("fetchQuote", function() {
     it(
       "returns a nice msg",
